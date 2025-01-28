@@ -1,4 +1,4 @@
-#NewYork Times Popular Articles
+NewYork Times Popular Articles
 Key Features
 
 This projects aim at getting the latest articles from Newyork times newspaper and display them as a list.
@@ -11,7 +11,7 @@ Activity,
 Fragments,
 Content Providers,
 Broadcast Receivers,
-Service
+Services
 
 URL
 
